@@ -40,16 +40,6 @@ Welcome to my GitHub profile! I'm **Gerard RWEIK**, a passionate Full-Stack Deve
 - **PRINCE2® Practitioner Certification**
 - **ITIL4 Foundation Certification**
 
----
-
-## 🌱 What I'm Learning
-I believe in continuous growth! Currently, I'm exploring:
-- **Rust**: To deepen my understanding of high-performance, secure systems.
-- **Kubernetes**: For advanced container orchestration.
-- **Next.js**: To enhance my frontend capabilities.
-
----
-
 ## 💬 Let’s Work Together!
 I’m always open to collaborating on exciting projects or exploring new challenges. Whether you’re a recruiter or a fellow developer, feel free to reach out!
 
